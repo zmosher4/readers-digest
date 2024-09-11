@@ -1,0 +1,37 @@
+[
+  {
+    "model": "digestapi.category",
+
+    "fields": {
+      "label": "Programming"
+    }
+  },
+  {
+    "model": "digestapi.category",
+
+    "fields": {
+      "label": "Web Development"
+    }
+  },
+  {
+    "model": "digestapi.category",
+
+    "fields": {
+      "label": "Automation"
+    }
+  },
+  {
+    "model": "digestapi.category",
+
+    "fields": {
+      "label": "Data Science"
+    }
+  },
+  {
+    "model": "digestapi.category",
+
+    "fields": {
+      "label": "Machine Learning"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "model": "digestapi.book",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "title": "Django for Beginners",
+      "author": "William S. Vincent",
+      "isbn_number": "9781735467221",
+      "cover_image": "https://example.com/django-for-beginners.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "isbn_number": "9781593279288",
+      "cover_image": "https://example.com/python-crash-course.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 3,
+    "fields": {
+      "user": 2,
+      "title": "Automate the Boring Stuff with Python",
+      "author": "Al Sweigart",
+      "isbn_number": "9781593275990",
+      "cover_image": "https://example.com/automate-boring-stuff.jpg"
+    }
+  }
+]

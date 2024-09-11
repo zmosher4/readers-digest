@@ -1,0 +1,57 @@
+[
+  {
+    "model": "digestapi.review",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "number_rating": 5,
+      "comment": "Excellent book! Highly recommended.",
+      "date_posted": "2024-09-11T12:00:00Z",
+      "book": 1
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "number_rating": 4,
+      "comment": "Very informative, but a bit dense.",
+      "date_posted": "2024-09-11T13:00:00Z",
+      "book": 2
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "number_rating": 3,
+      "comment": "Interesting read, but not quite what I expected.",
+      "date_posted": "2024-09-11T14:00:00Z",
+      "book": 3
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 4,
+    "fields": {
+      "user": 3,
+      "number_rating": 2,
+      "comment": "Not very engaging. I struggled to finish it.",
+      "date_posted": "2024-09-11T15:00:00Z",
+      "book": 1
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 5,
+    "fields": {
+      "user": 2,
+      "number_rating": 5,
+      "comment": "A masterpiece! Loved every page.",
+      "date_posted": "2024-09-11T16:00:00Z",
+      "book": 2
+    }
+  }
+]
